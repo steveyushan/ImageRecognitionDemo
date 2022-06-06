@@ -1,0 +1,6 @@
+/VOCdevkit/.idea/
+/VOCdevkit/images/
+/VOCdevkit/labels/
+/VOCdevkit/VOC2007/
+/yolov5_train.txt
+/yolov5_val.txt
